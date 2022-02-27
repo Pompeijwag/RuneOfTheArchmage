@@ -1,0 +1,15 @@
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\bin\Debug\net6.0\PolymorphSimulator.exe
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\bin\Debug\net6.0\PolymorphSimulator.deps.json
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\bin\Debug\net6.0\PolymorphSimulator.runtimeconfig.json
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\bin\Debug\net6.0\PolymorphSimulator.dll
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\bin\Debug\net6.0\ref\PolymorphSimulator.dll
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\bin\Debug\net6.0\PolymorphSimulator.pdb
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\obj\Debug\net6.0\PolymorphSimulator.csproj.AssemblyReference.cache
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\obj\Debug\net6.0\PolymorphSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\obj\Debug\net6.0\PolymorphSimulator.AssemblyInfoInputs.cache
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\obj\Debug\net6.0\PolymorphSimulator.AssemblyInfo.cs
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\obj\Debug\net6.0\PolymorphSimulator.csproj.CoreCompileInputs.cache
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\obj\Debug\net6.0\PolymorphSimulator.dll
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\obj\Debug\net6.0\ref\PolymorphSimulator.dll
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\obj\Debug\net6.0\PolymorphSimulator.pdb
+C:\Users\shawn\source\repos\PolymorphSimulator\PolymorphSimulator\obj\Debug\net6.0\PolymorphSimulator.genruntimeconfig.cache
